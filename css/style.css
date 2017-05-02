@@ -67,7 +67,7 @@ body{
 
 }
 
-.mid{
+#mid{
 	position: absolute;
 	left: 60px;
 	right: 30%;
@@ -85,7 +85,7 @@ body{
 	right: 0;
 	bottom: 0;	
 }
-.midLater{
+#midLater{
 	position: absolute;
 	right: 50px;
 	left: 73%;
